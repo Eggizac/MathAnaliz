@@ -202,42 +202,42 @@ $$
 
 # Верхние и нижние суммы Дарбу. Свойства сумм Дарбу (10 вопрос)
 
-![1](/images/10%20вопрос%20(1%20фото).png)
-![2](/images/10%20вопрос%20(2%20фото).png)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/10%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20(1%20%D1%84%D0%BE%D1%82%D0%BE).png?raw=true)
+![2](https://github.com/Eggizac/MathAnaliz/blob/main/images/10%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20(2%20%D1%84%D0%BE%D1%82%D0%BE).png?raw=true)
 
 # Свойства интегрируемых функций (12 вопрос)
 
-![1](/images/12%20вопрос%201.png)
-![2](/images/12%20вопрос%202.png)
-![3](/images/12%20вопрос%203.png)
-![3](/images/12%20вопрос%204.png)
-![3](/images/12%20вопрос%205.png)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/12%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png?raw=true)
+![2](https://github.com/Eggizac/MathAnaliz/blob/main/images/12%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png?raw=true)
+![3](https://github.com/Eggizac/MathAnaliz/blob/main/images/12%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%203.png?raw=true)
+![3](https://github.com/Eggizac/MathAnaliz/blob/main/images/12%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%204.png?raw=true)
+![3](https://github.com/Eggizac/MathAnaliz/blob/main/images/12%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%205.png?raw=true)
 
 # Определенный интеграл как функция верхнего предела. Формула Ньютона-Лейбница. (14 вопрос)
 
 ## Определенный интеграл как функция верхнего предела
-![1](/images/14%20вопрос%201.png)
-![1](/images/14%20вопрос%202.png)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/14%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/14%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png?raw=true)
 ## Формула Ньютона-Лейбница
-![1](/images/14%20вопрос%203.png)
-![1](/images/14%20вопрос%204.png)
-![1](/images/14%20вопрос%205.png)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/14%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%203.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/14%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%204.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/14%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%205.png?raw=true)
 
 # Формула интегрирования по частям для определенного интегралла (16 вопрос)
 
-![1](/images/16%20вопрос%201.png)
-![1](/images/16%20вопрос%202.png)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/16%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/16%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png?raw=true)
 https://mathprofi.com/knigi_i_kursy/integraly/1_6_integrirovanie_po_chastyam_v_opredelennom_integrale.html
 
 # Геометрические приложения определенного интеграла. Длина кривой и площадь плоской фигуры. (17 вопрос)
 
 ## Длина кривой
 
-![1](/images/17%20вопрос%201.png)
-![1](/images/17%20вопрос%202.png)
-![1](/images/17%20вопрос%203.png)
-![1](/images/17%20вопрос%204.png)
-![1](/images/17%20вопрос%205.png)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/17%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/17%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/17%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%203.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/17%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%204.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/17%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%205.png?raw=true)
 
 ## Площадь плоской фигуры
 http://mathprofi.ru/vychislenie_ploshadi_c_pomoshju_opredelennogo_integrala.html
@@ -246,20 +246,20 @@ http://mathprofi.ru/vychislenie_ploshadi_c_pomoshju_opredelennogo_integrala.html
 
 ## Площадь криволинейной трапеции
 
-![1](/images/18%20вопрос%201.png)
-![1](/images/18%20вопрос%202.png)
-![1](/images/18%20вопрос%203.png)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/18%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/18%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/18%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%203.png?raw=true)
 
 ## Объем тела вращения
-![1](/images/18%20вопрос%204.png)
-![1](/images/18%20вопрос%205.png)
-![1](/images/18%20вопрос%206.png)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/18%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%204.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/18%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%205.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/18%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%206.png?raw=true)
 
 ## Несобственный интеграл второго рода (20 вопрос)
 
-![1](/images/20%20вопрос%201.png)
-![1](/images/20%20вопрос%202.png)
-![1](/images/20%20вопрос%203.png)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/20%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/20%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/20%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%203.png?raw=true)
 
 # Знакопостоянные ряды. Необходимое условие сходимости ряда. (22 вопрос)
 
@@ -351,10 +351,10 @@ $$
 
 # Знакопеременные ряды. Абсолютная и условная сходимости ряда. (26 вопрос)
 
-![1](/images/26%20вопрос%201.png)
-![1](/images/26%20вопрос%202.png)
-![1](/images/26%20вопрос%203.png)
-![1](/images/26%20вопрос%204.png)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/26%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/26%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/26%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%203.png?raw=true)
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/26%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%204.png?raw=true)
 
 # Действия над рядами. Сумма и произведение рядов. (28 вопрос)
 
