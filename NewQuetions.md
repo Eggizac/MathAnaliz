@@ -1,26 +1,26 @@
 # Первообразная и неопределенный интеграл. Свойства неопределенного интеграла. (1 и 2 вопросы)
 ## Понятие первообразной
-![1, 2 вопрос (1)]()
+![1, 2 вопрос (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/1,%202%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20(1).png?raw=true)
 ## Понятие неопределенного интеграла
-![1, 2 вопрос (2)]()
+![1, 2 вопрос (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/1,%202%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20(2).png?raw=true)
 ## Свойства неопределенного интеграла
-![1, 2 вопрос (4).png]()
-![1, 2 question (5)]()
-![1, 2 quetion (6).png]()
+![1, 2 вопрос (4).png](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/1,%202%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20(4).png?raw=true)
+![1, 2 question (5)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/1,%202%20question%20(5).png?raw=true)
+![1, 2 quetion (6).png](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/1,%202%20quetion%20(6).png?raw=true)
 
 ---
 # Замена переменной в неопределенном интеграле (3 вопрос)
 
-![question 3 (1).png]()
+![question 3 (1).png](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%203%20(1_).png?raw=true)
 
-![question 3 (2).png]()
+![question 3 (2).png](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%203%20(2).png?raw=true)
 
 
 # Интегрирование по частям неопределенного интеграла (4 вопрос)
 
-![question 4 (1).png]()
+![question 4 (1).png](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%204%20(1).png?raw=true)
 
-![question 4 (2).png]()
+![question 4 (2).png](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%204%20(2).png?raw=true)
 
 
 
@@ -272,13 +272,13 @@ $$
 
 ## Понятие определенного интеграла
 
-![question 10 (1)]()
+![question 10 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2010%20(1).png?raw=true)
 
-![question 10 (2).png]()
+![question 10 (2).png](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2010%20(2).png?raw=true)
 
 ## Понятие интегральной суммы
 
-![question 10 (3).png]()
+![question 10 (3).png](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2010%20(3).png?raw=true)
 
 
 
@@ -289,7 +289,7 @@ $$
 
 # Необходимое и достаточное условие интегрируемости (12 вопрос)
 
-![question 12 (1)]()
+![question 12 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/quetion%2012%20(1).png?raw=true)
 
 # Свойства интегрируемых функций (13 вопрос)
 
@@ -303,11 +303,11 @@ $$
 
 # Оценки интегралов. Теорема о среднем значении (14 вопрос)
 
-![question 14 (1)]()
-![question 14 (2)]()
-![question 14 (3)]()
-![question 14 (4)]()
-![question 14 (5)]()
+![question 14 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2014%20(1).png?raw=true)
+![question 14 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2014%20(2).png?raw=true)
+![question 14 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2014%20(3).png?raw=true)
+![question 14 (4)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2014%20(4).png?raw=true)
+![question 14 (5)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2014%20(5).png?raw=true)
 
 # Определенный интеграл как функция верхнего предела. Формула Ньютона-Лейбница. (15 вопрос)
 
@@ -321,9 +321,9 @@ $$
 
 # Замена переменной в определенном интеграле. (Вопрос 16)
 
-![question 16 (1)]()
+![question 16 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2016%20(1).png?raw=true)
 
-![question 16 (2)]()
+![question 16 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2016%20(2).png?raw=true)
 # Формула интегрирования по частям для определенного интегралла (17 вопрос)
 
 ![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/16%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png?raw=true)
@@ -358,9 +358,9 @@ http://mathprofi.ru/vychislenie_ploshadi_c_pomoshju_opredelennogo_integrala.html
 
 ## Несобственный интеграл первого рода (20 вопрос)
 
-![question 20 (1)]()
-![question 20 (2)]()
-![question 20 (3)]()
+![question 20 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/quetion%2020%20(1).png?raw=true)
+![question 20 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2020%20(2).png?raw=true)
+![question 20 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2020%20(3).png?raw=true)
 
 ## Несобственный интеграл второго рода (21 вопрос)
 
@@ -375,23 +375,28 @@ http://mathprofi.ru/vychislenie_ploshadi_c_pomoshju_opredelennogo_integrala.html
 
 Признаки сравнения используются для определения сходимости несобственных интегралов первого или второго рода. Они основаны на сравнении исследуемого интеграла с другим, сходимость которого известна.
 
-### Основной признак сравнения
+### Признаки сравнения
 
 ![question 22 (1)]()
 ![question 22 (2)]()
-
-**Тут сказано про абсолютную сходимость**
-
 ![question 22 (3)]()
+![question 22 (4)]()
 
+### Понятие абсолютной сходимости
+![question 22 (5)]()
+![question 22 (6)]()
+![question 22 (7)]()
 # Признак Абеля и признак Дирихле сходимости несобственных интегралов. (23 вопрос)
 
 ## Признак Абеля
 
 ![question 23 (1)]()
-
+![question 23 (2)]()
 ## Признак Дирихле
 
-![question 23 (1)]()
-![question 23 (2)]()
+
 ![question 23 (3)]()
+![question 23 (4)]()
+
+# Пространства $R^n$ и множества в них. Функции нескольких переменных. 
+
