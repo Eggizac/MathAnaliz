@@ -55,77 +55,8 @@
 
 **Рациональная дробь** вида:
 
-$$
-R(x) = \frac{a_0x^n+a_1x^{n-1}+...\ + a_{n-1}x+a_n}{b_0x^m+b_1x^{m-1}+...\ + b_{m-1}x+b_m} = \frac{P_n(x)}{Q_m(x)}
-$$
-
-является правильной, если $n < m$ $\frac{x}{x^2+5}$
-
-является неправильной, если $n>=m$ $\frac{x^3}{3x^2+7x-4}$
-
----
-
-**Простая дробь** является рациональной дробью, если она является 1 из следующих 4 типов:
-
-**1.** 
-$$
-\frac{A}{x + a} \ \ \text{или} \ \  \frac{A}{x - a} 
-
-\ \ (A,a \in R)
-$$
-
-**2.**
-
-$$
-\frac{A}{(x + a)^n} \ \ \text{или} \ \  \frac{A}{(x - a)^n} 
-
-\ \ (A,a \in R, \ n>=2)
-$$
-
-**3.**
-$$
-\frac{Mx+N}{x^2+px+q} \ \ \ \ (M, N, p, q \in R) , \ \ (x^2+px+q = 0)
-$$
-
-**4.**
-$$
-\frac{Mx+N}{(x^2+px+q)^n} \ \ \ \ (M, N, p, q \in R) , \ \ (x^2+px+q = 0)
-
-\ \ (n>=2)
-$$
----
-Из каждой дроби можно взять интеграл:
-
-**1.**
-$$
-A\ln(|x + a|) + C \ \ \ \text{или} \ \ \ A\ln(|x - a|) + C
-$$
-
-**2.**
-$$
-\frac{A}{(1-n)(x + a)^{n-1}} + C \ \ \ \text{или}
-\ \ \ \frac{A}{(1-n)(x - a)^{n-1}} + C
-$$
-
-**3.**
-$$
-\frac{M}{2} \ln|x^2+px+q| + (N - \frac{PM}{2}) *\frac{1}{\sqrt{q - \frac{p^2}{4}}} * \arctg(\frac{x + \frac{P}{2}}{\sqrt{q - \frac{P^2}{4}}}) + C
-$$
-
-**4.**
-$$
-I_n = \frac{t}{a^2(n-1)(t^2+a^2)^{n-1}} - \frac{1}{a^n}\frac{2n-3}{2n-2} * I_{n-1}
-$$ 
-<i>На счет интеграла 4 типа я хз, может он неверн, надо будет проверить</i>
-
----
-
-**Теорема:** Правильную дробь $\frac{P_n(x)}{Q_m(x)}\ , \ Q_m(x) = (x-a)^n * (x-b)^{\text{у меня там черточка}} *... \ * (x^2+px+q)^s$
-можно обр. (хз что за полное слово) разложить на сумму простейших дробей
-$$
-\frac{P_n(x)}{Q_m(x)} = \frac{A_1}{x-a} + \frac{A_2}{(x-a)^2} +... + \frac{A_k}{(x-a)^k} + \frac{B_1}{x-b} + \frac{B_2}{(x-b)^2} +... +\frac{B_l}{(x-b^l)} + \frac{M_1x+N_1}{x^2+px+q} + \frac{M_2x+N_2}{(x^2+px+q)^2}
-+ ...\  + \frac{M_sx+N_s}{(x^2+px+q)^s}
-$$
+![question 5, 6 (1)]()
+![question 5, 6 (2)]()
 ---
 Теперь, когда стало ясно, что такое рациональная дробь, стоит поговорить о том как найти интеграл от такой дроби, есть несколько методов:
 
@@ -166,14 +97,7 @@ $$
 
 **Интеграл** вида 
 
-$$
-\int{R (x, \sqrt{x^{m_1}}, \sqrt{x^{m_2}}, ...) dx} = |
-
-\text{$x = t^S$, S - общий знаменатель дробей $\frac{m_1}{n_1}$, $\frac{m_2}{n_2}$} | =
-
-\int{R (t^S, \frac{Sm_1}{n_1}, \frac{Sm_1}{n_1}, ...) St^{S-1}dt} \ \ \ 
-\text{, где R - рациональная дробь, x - иррациональная часть}
-$$
+![question 7 (1)]()
 
 ## Способ решения иррационального интеграла
 
@@ -377,116 +301,116 @@ http://mathprofi.ru/vychislenie_ploshadi_c_pomoshju_opredelennogo_integrala.html
 
 ### Признаки сравнения
 
-![question 22 (1)]()
-![question 22 (2)]()
-![question 22 (3)]()
-![question 22 (4)]()
+![question 22 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2022%20(1).png?raw=true)
+![question 22 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2022%20(2).png?raw=true)
+![question 22 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2022%20(3).png?raw=true)
+![question 22 (4)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2022%20(4).png?raw=true)
 
 ### Понятие абсолютной сходимости
-![question 22 (5)]()
-![question 22 (6)]()
-![question 22 (7)]()
+![question 22 (5)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2022%20(5).png?raw=true)
+![question 22 (6)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2022%20(6).png?raw=true)
+![question 22 (7)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2022%20(7).png?raw=true)
 # Признак Абеля и признак Дирихле сходимости несобственных интегралов. (23 вопрос)
 
 ## Признак Абеля
 
-![question 23 (1)]()
-![question 23 (2)]()
+![question 23 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2023%20(1).png?raw=true)
+![question 23 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2023%20(2).png?raw=true)
 ## Признак Дирихле
 
 
-![question 23 (3)]()
-![question 23 (4)]()
+![question 23 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2023%20(3).png?raw=true)
+![question 23 (4)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2023%20(4).png?raw=true)
 
 # Пространства $R^n$ и множества в них. Функции нескольких переменных. (24 вопрос)
 
 ## Определение пространства $R^n$
-![question 24 (1)]()
-![question 24 (2)]()
+![question 24 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(1).png?raw=true)
+![question 24 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(2).png?raw=true)
 
 ## Подмножетсва пространсва $R^n$
 
 ### n-мерный замкнутый шар с радиусом $r$ и центром в точке $x_0$
-![question 24 (3)]()
-![question 24 (4)]()
+![question 24 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(3).png?raw=true)
+![question 24 (4)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(4).png?raw=true)
 
 ### Открытый n-мерный шар с центром в точке $x_0$
-![question 24 (5)]()
+![question 24 (5)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(5).png?raw=true)
 ### n-мерная сфера радиусом $r$ с центром в точке $x_0$
-![question 24 (6)]()
+![question 24 (6)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(6).png?raw=true)
 ### $\epsilon - окрестность$
-![question 24 (7)]()
-![question 24 (8)]()
+![question 24 (7)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(7).png?raw=true)
+![question 24 (8)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(8).png?raw=true)
 ### n-мерный замкнутый параллелепипед с центром в точке $x_0 = (x_1^0; x_2^0; \dots; x_n^0)$
-![question 24 (9)]()
+![question 24 (9)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(9).png?raw=true)
 ### n-мерный открытым кубом с центром в точке $x_0 = (x_1^0; x_2^0; \dots; x_n^0)$
-![question 24 (10)]()
+![question 24 (10)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(10).png?raw=true)
 ### Прямоугольная окрестность
-![question 24 (11)]()
-![question 24 (12)]()
+![question 24 (11)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(11).png?raw=true)
+![question 24 (12)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(12).png?raw=true)
 ### Проколатая $\epsilon$ окрестность
-![question 24 (13)]()
+![question 24 (13)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(13).png?raw=true)
 
 ## Функции нескольких переменных
 
 ### Определение
 
-![question 24 (14)]()
-![question 24 (15)]()
+![question 24 (14)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(14).png?raw=true)
+![question 24 (15)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2024%20(15).png?raw=true)
 
 # Предел и непрерывность функции нескольких переменных. (25 вопрос)
 
 ## Предел функции нескольких переменных
 
-![question 25 (1)]()
-![question 25 (2)]()
-![question 25 (3)]()
+![question 25 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2025%20(1).png?raw=true)
+![question 25 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2025%20(2).png?raw=true)
+![question 25 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2025%20(3).png?raw=true)
 
 ## Непрерывность функции нескольких переменных.
 
-![question 25 (4)]()
-![question 25 (5)]()
+![question 25 (4)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2025%20(4).png?raw=true)
+![question 25 (5)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2025%20(5).png?raw=true)
 
 # Частные производные функций нескольких переменных. (26 вопрос)
 
-![question 26 (1)]()
-![question 26 (2)]()
-![question 26 (3)]()
+![question 26 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2026%20(1).png?raw=true)
+![question 26 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2026%20(2).png?raw=true)
+![question 26 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2026%20(3).png?raw=true)
 
 # Дифференциал функции нескольких переменных. (27 вопрос)
 
 ## Дифференциал функции нескольких переменных
 
-![question 27 (1)]()
-![question 27 (2)]()
+![question 27 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2027%20(1).png?raw=true)
+![question 27 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2027%20(2).png?raw=true)
 
 ## Геометрический смысл
 
-![question 27 (3)]()
-![question 27 (4)]()
+![question 27 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2027%20(3).png?raw=true)
+![question 27 (4)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2027%20(4).png?raw=true)
 
 # Производные сложных функций. Инвариантность формы полного дифференциала.
 
 ## Производные сложных функций
 
-![question 28 (1)]()
-![question 28 (2)]()
-![question 28 (3)]()
-![question 28 (4)]()
+![question 28 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2028%20(1).png?raw=true)
+![question 28 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2028%20(2).png?raw=true)
+![question 28 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2028%20(3).png?raw=true)
+![question 28 (4)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2028%20(4).png?raw=true)
 
 ## Инвариантность формы полного дифференциал
-![question 28 (5)]()
-![question 28 (6)]()
+![question 28 (5)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2028%20(5).png?raw=true)
+![question 28 (6)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2028%20(6).png?raw=true)
 
 # Частные производные высших порядков. (29 вопрос)
 
-![question 29 (1)]()
-![question 29 (2)]()
-![question 29 (3)]()
+![question 29 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2029%20(1).png?raw=true)
+![question 29 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2029%20(2).png?raw=true)
+![question 29 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2029%20(2).png?raw=true)
 
 # Дифференциалы высших порядков. (30 вопрос)
 
-![question 30 (1)]()
-![question 30 (2)]()
-![question 30 (3)]()
-![question 30 (4)]()
+![question 30 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2030%20(1).png?raw=true)
+![question 30 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2030%20(2).png?raw=true)
+![question 30 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2030%20(3).png?raw=true)
+![question 30 (4)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2030%20(4).png?raw=true)
