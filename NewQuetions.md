@@ -404,9 +404,9 @@ http://mathprofi.ru/vychislenie_ploshadi_c_pomoshju_opredelennogo_integrala.html
 
 # Частные производные высших порядков. (29 вопрос)
 
-![question 29 (1)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2029%20(1).png?raw=true)
-![question 29 (2)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2029%20(2).png?raw=true)
-![question 29 (3)](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2029%20(2).png?raw=true)
+![question 29 (1)]()
+![question 29 (2)]()
+![question 29 (3)]()
 
 # Дифференциалы высших порядков. (30 вопрос)
 
