@@ -222,6 +222,14 @@ $$
 Если функция $f(x)$ **ограничена** на отрезке $[a; b]$ и **имеет конечное число точек разрыва** на этом отрезке,
 
 то функция $f(x)$ **интегрируема по Риману** на $[a; b]$.
+
+## Классы функций
+
+1. Это необходимое условие
+
+2. Это достаточное условие
+
+3. Если $f(x)$ монотонна на $[a; b]$, то она интегрируема на $[a; b]$
 # Свойства интегрируемых функций (13 вопрос)
 
 ![1](https://github.com/Eggizac/MathAnaliz/blob/main/images/12%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png?raw=true)
@@ -278,11 +286,11 @@ http://mathprofi.ru/vychislenie_ploshadi_c_pomoshju_opredelennogo_integrala.html
 
 ## Из лекиций
 
-![1](question 18(1))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2018(1).png?raw=true)
 
-![1](question 18(2))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2018(2).png?raw=true)
 
-![1](question 18(3))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2018(3).png?raw=true)
 
 # Геометрические приложения определенного интеграла. Площадь криволинейной трапеции и объем тела вращения. (18 вопрос)
 
@@ -436,26 +444,26 @@ http://mathprofi.ru/vychislenie_ploshadi_c_pomoshju_opredelennogo_integrala.html
 
 ## Определение экстремума функций нескольких переменных
 
-![1](question 31(1))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2031(1).png?raw=true)
 
 ## Необходимое условие экстремума
 
-![1](question 31(4))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2031(4).png?raw=true)
 
 ## Достаточное условие экстремума
 
-![1](question 31(2))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2031(2).png?raw=true)
 
-![1](question 31(3))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2031(3).png?raw=true)
 
 # Условный экстремум функции нескольких переменных. Метод Лагранжа. (32 вопрос)
 
 
 ## Условный экстремум функции нескольких переменных
 
-![1](question 32(1))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2032%20(1).png?raw=true)
 
-![1](question 32(2))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2032(2).png?raw=true)
 
 ## Метод Лагранжа
 
@@ -519,20 +527,20 @@ $$
 
 # Теорема о существовании неявно заданной функции. Дифференцирование неявных функций. (33 вопрос)
 
-![1](question 33 (1))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2033(1).png?raw=true)
 
-![1](question 33 (2))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2033(2).png?raw=true)
 
-![1](question 33 (3))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2033(3).png?raw=true)
 
 # Производная по направлению. Градиент. (34 вопрос)
 
-![1](question 34(1))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2034(1).png?raw=true)
 
-![1](question 34(2))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/questuion%2034(2).png?raw=true)
 
-![1](question 34(3))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2034(3).png?raw=true)
 
-![1](question 34(4))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2034(4).png?raw=true)
 
-![1](question 34(5))
+![1](https://github.com/Eggizac/MathAnaliz/blob/main/NewImage/question%2034(5).png?raw=true)
